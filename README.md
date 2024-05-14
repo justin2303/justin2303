@@ -8,7 +8,6 @@ However, when I do, I tend to do projects for an online gaming community I am pa
 
 💞️ I’m looking to collaborate on ... uhh not sure 😅 Not really many people play Mount and Blade Napoleonic Wars, or have similar interests, so I doubt anyone would wanna work on my projects :)  
 
-😄 Pronouns: whatever makes you comfortable 🙃  
 
 ⚡ Fun fact: I used to play piano quite well, with what little practice I can get nowadays, I still can play Mozart Turkish march and Sonata K281 pretty well 🤡
 
