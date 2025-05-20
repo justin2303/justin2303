@@ -1,3 +1,4 @@
-👋 Hi, I’m @justin2303  
-I am a Compsci student at UC Davis. Currently I'm working on a fullstack project for a Social/administrative web app for the group of people who come to the NA linebattles in Mount and Blade: Napoleonic Wars.
-It consists of a Go backend, MySQL DB and a React.js frontend.
+👋 Hi, I’mJustin
+I'm a CS undergrad from UC Davis who is looking for a job. I have a lot of experience writing fullstack applications, from AI maze solvers to a social media web app.
+Here's an AboutMe website if you want to know more :) https://aboutme-justin.space/WhyMe
+
